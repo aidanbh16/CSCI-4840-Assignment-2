@@ -1,6 +1,6 @@
 ## Description
 
-Hello, this is my Module 2 Homework for CSCI 4840 "Machine Learning" and is based around graphing in Matplotlib.
+Hello, this is my Module 2 Assignment for CSCI 4840 "Machine Learning" and is based around graphing in Matplotlib.
 
 ## How to Run
 ### Clone to desired folder
